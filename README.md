@@ -6,6 +6,8 @@
 
 The Spit Detection and Recognition System is a project aimed at detecting instances of people spitting in public spaces and recognizing them either by their facial features or vehicle number plates. This system utilizes advanced image processing, object detection, facial recognition, and license plate recognition techniques to identify and track individuals who engage in spitting behavior.
 
+you can also view this project at roboflow: https://universe.roboflow.com/vibhore/swachmukhh
+
 ## Features
 
 - **Spit Detection**: Utilizes object detection algorithms to identify instances of people spitting within images or video streams.
