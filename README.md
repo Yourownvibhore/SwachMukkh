@@ -8,6 +8,18 @@ The Spit Detection and Recognition System is a project aimed at detecting instan
 
 you can also view this project at roboflow: https://universe.roboflow.com/vibhore/swachmukhh
 
+<img width="434" alt="image" src="https://github.com/user-attachments/assets/9b30e0d5-c47c-4f54-8a0b-daa0ee7c7b0e">
+
+
+## Results
+
+![P_curve](https://github.com/user-attachments/assets/2d4bcdb1-c1c2-4c24-87a8-bdf2d5987ec1)
+![F1_curve](https://github.com/user-attachments/assets/f3109540-38f0-4f1d-b14f-c4eff9e2e99f)
+![confusion_matrix_normalized](https://github.com/user-attachments/assets/c229bfbf-2e0c-4c39-9560-b45bea2c8fa6)
+
+
+
+
 ## Features
 
 - **Spit Detection**: Utilizes object detection algorithms to identify instances of people spitting within images or video streams.
